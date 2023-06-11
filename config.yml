@@ -1,0 +1,79 @@
+baseURL: "https://examplesite.com/"
+title: Sicilian
+paginate: 5
+theme: PaperMod
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+
+  title: Sicilian
+  keywords: [Blog, Portfolio, Machine Learning, Deep Learning]
+  author: Sicilian
+
+
+  assets:
+      favicon: "/assets/favicon.ico"
+      favicon16x16: "/assets/favicon-16x16.png"
+      favicon32x32: "/assets/favicon-32x32.png"
+      apple_touch_icon: "/assets/apple-touch-icon.png"
+      safari_pinned_tab: "/assets/safari-pinned-tab.svg"
+
+  ShowReadingTime: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  UseHugoToc: true
+  disableScrollToTop: false
+  showtoc: true
+  tocopen: false
+  hidemeta: false
+
+  mainSections:
+  - posts
+  - projects
+
+  homeInfoParams:
+    Title: "Hello \U0001F44B"
+    Content: Just documenting some notes on the way!
+  socialIcons:
+    - name: github
+      url: "https://github.com/Srujana2505"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/srujana-marpina/"
+    - name: cv
+      url: "https://drive.google.com/file/d/1gjDum4T9-e0ThZMPTfPexwhIxa-Tjy-7/view?usp=sharing"
+
+
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON # is necessary
+
+
+menu:
+  main:
+    - identifier: blog
+      name: Blog
+      url: /posts/
+      weight: 10
+    - identifier: projects
+      name: Projects
+      url: /projects/
+      weight: 20
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 30
+    - identifier: archives
+      name: Archives
+      url: /archives/
+      weight: 40
+    - identifier: search
+      name: Search
+      url: /search/
+      weight: 50
+
