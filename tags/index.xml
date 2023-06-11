@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on Sicilian</title>
+    <link>https://srujana2505.github.io/tags/</link>
+    <description>Recent content in Tags on Sicilian</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 09 Jun 2023 21:57:31 +0530</lastBuildDate><atom:link href="https://srujana2505.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>backprop</title>
+      <link>https://srujana2505.github.io/tags/backprop/</link>
+      <pubDate>Fri, 09 Jun 2023 21:57:31 +0530</pubDate>
+      
+      <guid>https://srujana2505.github.io/tags/backprop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>code</title>
+      <link>https://srujana2505.github.io/tags/code/</link>
+      <pubDate>Fri, 09 Jun 2023 21:57:31 +0530</pubDate>
+      
+      <guid>https://srujana2505.github.io/tags/code/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>softmax</title>
+      <link>https://srujana2505.github.io/tags/softmax/</link>
+      <pubDate>Fri, 09 Jun 2023 21:57:31 +0530</pubDate>
+      
+      <guid>https://srujana2505.github.io/tags/softmax/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
