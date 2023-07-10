@@ -149,6 +149,8 @@ print('A: ', A)
 w, b = backprop(A, X, y, w, b, alpha)
 print('after backprop: ', w, b)
 ```
+## References
 
+[1] https://eli.thegreenplace.net/2016/the-softmax-function-and-its-derivative/
 
 
