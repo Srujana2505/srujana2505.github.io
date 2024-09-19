@@ -43,8 +43,8 @@ params:
       url: "https://github.com/Srujana2505"
     - name: linkedin
       url: "https://www.linkedin.com/in/srujana-marpina/"
-    - name: cv
-      url: "https://drive.google.com/file/d/1gjDum4T9-e0ThZMPTfPexwhIxa-Tjy-7/view?usp=sharing"
+    # - name: cv
+    #   url: ""
 
 
 outputs:
